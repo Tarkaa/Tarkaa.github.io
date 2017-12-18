@@ -41,7 +41,7 @@ lsi: False
 username: Tarkaa #github username
 repo: Tarkaa.github.io #github repository
 branch: master #branch
-relative_source: _pages #source directory
+relative_source: . #source directory
 destination: _pages #destination directory
 production_url:  https://Tarkaa.github.io/
 source_url:  https://github.com/Tarkaa/Tarkaa.github.io #source repository url
