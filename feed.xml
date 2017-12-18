@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Hanuman</title>
     <description>Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.</description>
     <link>http://localhost:4000/hanuman//</link>
     <atom:link href="http://localhost:4000/hanuman//feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 18 Dec 2017 15:25:02 +0800</pubDate>
     <lastBuildDate>Mon, 18 Dec 2017 15:25:02 +0800</lastBuildDate>
+=======
+    <title>Tarkaa's Cabin</title>
+    <description>Pieces of ideas, sometimes may write diaries.</description>
+    <link>http://localhost:4000/Tarkaa//</link>
+    <atom:link href="http://localhost:4000/Tarkaa//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Dec 2017 15:00:44 +0800</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 15:00:44 +0800</lastBuildDate>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,8 +36,13 @@
 
 </description>
         <pubDate>Mon, 18 Dec 2017 00:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//Diary-2</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//Diary-2</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//Diary-2</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//Diary-2</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         <category>diary</category>
         
@@ -55,8 +69,13 @@
 &lt;/amp-youtube&gt;
 </description>
         <pubDate>Sun, 17 Dec 2017 00:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//diary1</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//diary1</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//diary1</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//diary1</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         
       </item>
@@ -95,7 +114,11 @@
 
 &lt;h3&gt;Image&lt;/h3&gt;
 
+<<<<<<< HEAD
 &lt;amp-img src=&quot;/hanuman/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+=======
+&lt;amp-img src=&quot;/Tarkaa/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
@@ -433,8 +456,13 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 &lt;/amp-youtube&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 12:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//style-guide</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//style-guide</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//style-guide</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//style-guide</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         <category>guide</category>
         
@@ -451,8 +479,13 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 12:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//sample</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//sample</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//sample</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//sample</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         <category>test</category>
         
@@ -491,8 +524,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 28 Nov 2017 12:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//code</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//code</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//code</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//code</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         <category>code</category>
         
@@ -503,7 +541,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
         <title>Media</title>
         <description>&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
 
+<<<<<<< HEAD
 &lt;amp-img src=&quot;/hanuman/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+=======
+&lt;amp-img src=&quot;/Tarkaa/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
@@ -511,7 +553,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;h3 id=&quot;image-with-heading&quot;&gt;Image With Heading&lt;/h3&gt;
 &lt;figure class=&quot;ampstart-image-with-heading  m0 relative mb4&quot;&gt;
+<<<<<<< HEAD
   &lt;amp-img src=&quot;/hanuman/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+=======
+  &lt;amp-img src=&quot;/Tarkaa/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
   &lt;figcaption class=&quot;absolute right-0 bottom-0 left-0&quot;&gt;
     &lt;header class=&quot;ampstart-image-heading px2 py2 line-height-4&quot;&gt;
       &lt;h1&gt;Shiva&lt;/h1&gt;
@@ -523,7 +569,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;h3 id=&quot;image-with-caption&quot;&gt;Image With Caption&lt;/h3&gt;
 &lt;figure class=&quot;ampstart-image-with-caption m0 relative mb4&quot;&gt;
+<<<<<<< HEAD
   &lt;amp-img src=&quot;/hanuman/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+=======
+  &lt;amp-img src=&quot;/Tarkaa/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
   &lt;figcaption class=&quot;h5 mt1 px3&quot;&gt;
     &lt;p&gt;Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.
 &lt;span class=&quot;ampstart-image-credit block bold&quot;&gt;
@@ -555,8 +605,13 @@ Taken by
 &lt;/amp-audio&gt;
 </description>
         <pubDate>Mon, 27 Nov 2017 12:00:00 +0800</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/hanuman//media</link>
         <guid isPermaLink="true">http://localhost:4000/hanuman//media</guid>
+=======
+        <link>http://localhost:4000/Tarkaa//media</link>
+        <guid isPermaLink="true">http://localhost:4000/Tarkaa//media</guid>
+>>>>>>> c99bd7bc6ffea0978f782fcf8fb1c07f843691d9
         
         <category>media</category>
         
